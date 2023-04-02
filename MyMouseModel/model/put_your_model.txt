@@ -1,0 +1,4 @@
+You need to add here your object detection model
+  i.e. the "saved_model.pd" file and the "assets" and "variables" folders
+You can follow instructions given here:
+  https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html

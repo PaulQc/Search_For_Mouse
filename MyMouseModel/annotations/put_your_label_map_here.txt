@@ -1,0 +1,4 @@
+You need to add here your "label_map+pbtxt" that you used to built your
+object detection model
+You can follow instructions given here:
+  https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html
